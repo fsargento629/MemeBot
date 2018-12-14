@@ -1,2 +1,2 @@
 # MemeBot
-It's Lit
+It's Lit.
