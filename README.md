@@ -1,11 +1,14 @@
 # MemeBot
 It's Lit.
 
-## Objetivo
+## Objetive
 
-* Fazer um scraper de memes do reddit
+* Create a meme web scraper
 * Mostrar os memes num slideshow
 
-## Como usar
+## How to use
 
+There are some functions in main.py to scrape images from selected subreddits, and some functions to save all the meme metadata in files in order to catalog every single meme.
+
+There are also some functions to show a very basic slideshow to show every single meme in the folder.
 
